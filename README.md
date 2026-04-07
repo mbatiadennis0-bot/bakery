@@ -25,3 +25,6 @@ Frontend: HTML, CSS
 Backend: PHP
 Database: MySQL
 Server: XAMPP
+
+The project url:
+http://localhost/bakery
